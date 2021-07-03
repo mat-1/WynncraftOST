@@ -2,8 +2,8 @@
 <h1 align="center">🎵 Wynncraft OST Repository 🎵</h1>
 </p>
 
-This repository contains the whole <b>Wynncraft and Community Original SoundTrack</b>.<br>
-All tracks are in their respective Noteblock format.
+This repository contains the whole <b>Wynncraft and Community Original SoundTrack</b>, with some of them replaced with fan-made versions.<br>
+Some tracks are in their respective Noteblock format.
 
 ## 🖌️ Featured Musicians
 The list of all musicians that contributed to the Wynncraft Original Sound Track
@@ -17,6 +17,17 @@ The list of all musicians that contributed to the Wynncraft Original Sound Track
 
 List of musicians that contributed to the Wynntils Original Sound Track
  * <img src="https://minotar.net/helm/71925ed8-8542-4db6-b087-4edd4c021062/16"> **HeyZeer0** (3 original songs)
+ 
+List of musicians that contributed fan-made remixes
+ * <img src="https://minotar.net/helm/36a2a00e-1657-42ed-b614-6ccf965ffbbf/16"> **SirCmt**
+ * **4 TD**
+ * **Cucu**
+ * **DS Music**
+ * <img src="https://minotar.net/helm/19012125-c308-4cc8-8018-75681335e39a/16"> **Endermity**
+ * <img src="https://minotar.net/helm/ffbf7dfd-e87c-490f-8571-5fc19894732f/16"> **Euxis**
+ * <img src="https://minotar.net/helm/e03eb3b9-7ff5-41c7-a869-78fccabb988e/16"> **Qrayon**
+ * **That Groovy Palm Tree**
+
  
 ## 💾 File Metadata
 Every song file contains in their metadata the following:
