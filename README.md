@@ -23,7 +23,6 @@ List of musicians that contributed fan-made remixes
  * <img src="https://minotar.net/helm/391a5ea1-1145-4df1-b8a2-ca23f36ddb9f/16"> **Corpe_** (19 original songs)
  * **Cucu**
  * <img src="https://minotar.net/helm/e03eb3b9-7ff5-41c7-a869-78fccabb988e/16"> **Qrayon** (11 original songs)
- * **That Groovy Palm Tree** (9 original songs)
  * **Frigiduck** (9 original songs)
  * <img src="https://minotar.net/helm/162d02bc-c3f4-46d2-97e0-18c843587649/16"> **TheRelicHunter** (6 original songs)
  * **4 TD** (4 original songs)
